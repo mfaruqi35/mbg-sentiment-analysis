@@ -111,12 +111,21 @@ Model SVM menghasilkan performa sebagai berikut:
 
 ## 📈 Visualisasi Utama
 
-### 1. Analisis Frekuensi
+### Wordcloud
 
-- WordCloud
-- Bar Chart
+![Wordcloud Visualization](./images/wordcloud_gabungan.png)
 
-Menampilkan kata yang paling sering muncul pada tiap label setelah menghapus domain-specific stopwords (seperti _makan_, _gizi_, _gratis_).
+### Bar Chart
+
+![Barchart Visualization](./images/top_10_kata_gabungan.png)
+
+Visualisasi di atas menunjukkan:
+
+- **Sentimen Positif** didominasi oleh kata seperti _dukung_, _sehat_, dan _bantu_, yang mencerminkan dukungan terhadap program.
+- **Sentimen Negatif** banyak mengandung kata seperti _racun_, _tolak_, dan _anggaran_, yang menunjukkan kekhawatiran atau kritik masyarakat.
+- **Sentimen Netral** cenderung berisi kata informatif seperti _presiden_, _sekolah_, dan _program_.
+
+Sebagai catatan, kata-kata umum terkait topik seperti _makan_, _bergizi_, dan _gratis_ tidak ditampilkan dalam visualisasi untuk menghindari bias frekuensi.
 
 ---
 
