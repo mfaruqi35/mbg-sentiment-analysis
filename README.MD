@@ -16,6 +16,15 @@ Fokus utama proyek ini tidak hanya pada akurasi model, tetapi juga pada kualitas
 
 ---
 
+## 📂 Sumber Dataset
+
+**tasyapndya** (2025). _free_nutritious_meals_sentiment_x_id_2025_.  
+📎 [Hugging Face Dataset](https://huggingface.co/datasets/tasyapndya/free_nutritious_meals_sentiment_x_id_2025)
+
+Dataset ini berisi opini masyarakat Indonesia di platform X terkait program Makan Bergizi Gratis yang telah dilabeli ke dalam tiga kategori sentimen: positif, negatif, dan netral.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Bahasa**: Python
